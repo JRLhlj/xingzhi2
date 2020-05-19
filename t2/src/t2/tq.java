@@ -7,6 +7,7 @@ public class tq {
 			System.out.println("你好呀");
 			System.out.println("123");
 			System.out.println("12345");
+                        System.out.println("abc");
 	}
 
 }
